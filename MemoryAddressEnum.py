@@ -1,33 +1,34 @@
 from enum import Enum
 
 class MemoryAddressOffsets(Enum):
-    player_data_pointer_offset = 0x033DFC40
+    player_data_pointer_offset = 0x033DED38
+    #player_data_pointer_offset = 0x033DFC40 #steam patch 1.08
     #player_data_pointer_offset = 0x03363540
-    #player_data_pointer_offset = 0x033DECC0 #steam patch 1.05
+    #player_data_pointer_offset = 0x033DECC0 #steam patch 1.06
     #player_data_pointer_offset = 0x03362540 #pc patch 2
     #player_data_pointer_offset =  0x03360450 #pc patch 1
     #player_data_pointer_offset = 0x0337A450 #pc patch 0
     player_data_second_pointer_offset = 0
-    p2_data_offset = 0x66B0
+    p2_data_offset = 0x6810
     p2_end_block_offset = 0xC8
-    rollback_frame_offset =  0x19F70
+    rollback_frame_offset = 0x1A4F0
     movelist_size = 2000000
 
 class GameDataAddress(Enum):
     #frame_count = 0x6a0 #resets sometimes on p1 backdash???
     #frame_count = 0x70C #caps at 0xFF
-    frame_count = 0x19AD0
-    facing = 0xAC4
-    timer_in_frames = 0x19AD8
+    frame_count = 0x1A050
+    facing = 0xAD4
+    timer_in_frames = 0x1A058
 
 class EndBlockPlayerDataAddress(Enum):
-    round_wins = 0x19AEC
+    round_wins = 0x1A06C
     #p2_wins = 0x19BB4
-    display_combo_counter = 0x19b50
-    display_combo_damage = 0x19B58
-    display_juggle_damage = 0x19B5C
-    total_attacks_made = 0x19B5C
-    total_moves_blocked = 0x19B5C
+    display_combo_counter = 0x1A0D0
+    display_combo_damage = 0x1A0D8
+    display_juggle_damage = 0x1A0DC
+    total_attacks_made = 0x19B5C #Outdated #NotUsed
+    total_moves_blocked = 0x19B5C #Outdated #NotUsed
     #p2_display_combo_counter = 0x19c18
     #p2_display_combo_damage = 0x19c20
     #p2_display_juggle_damage = 0x19c24
@@ -53,39 +54,39 @@ class PlayerDataAddress(Enum):
     cancel_window = 0x568
     damage_taken = 0x6EC
 
-    x = 0xBF0
-    y = 0xBF4
-    z = 0xBF8
-    hitbox1 = 0xBFC
-    hitbox2 = 0xC00
-    hitbox3 = 0xC04
-    hitbox4 = 0xC08
-    hitbox5 = 0xC0C
+    x = 0xC00
+    y = 0xC04
+    z = 0xC08
+    hitbox1 = 0xC0C
+    hitbox2 = 0xC10
+    hitbox3 = 0xC14
+    hitbox4 = 0xC18
+    hitbox5 = 0xC1C
 
-    activebox_x = 0x1050
-    activebox_y = 0x1054
-    activebox_z = 0x1058
+    activebox_x = 0x1060
+    activebox_y = 0x1064
+    activebox_z = 0x1068
 
-    health_percent = 0x11D8
+    health_percent = 0x11E8
     movelist_to_use = 0x1208
     # raw_array_start = 0xABC #this is the raw 'buttons' pressed before they are assigned to 1,2,3,4, 1+2, etc
-    input_counter = 0x14E8  # goes up one every new input state, caps at 0x27
-    input_attack = 0x14EC
-    input_direction = 0x14F0
+    input_counter = 0x1598  # goes up one every new input state, caps at 0x27
+    input_attack = 0x159C
+    input_direction = 0x15A0
 
-    attack_startup = 0x66A0
-    attack_startup_end = 0x66A4
-
-
+    attack_startup = 0x6800
+    attack_startup_end = 0x6804
 
 
 
-    rage_flag = 0x99A
+
+
+    rage_flag = 0x99C
 
     #mystery_state = 0x534
-    mystery_state = 0x994
+    mystery_state = 0x990 #Possibly Max_Mode #Uncertain Value
 
-    juggle_height = 0x11D8
+    juggle_height = 0x11D8 #Outdated #NotUsed
 
     #super meter p1 0x9F4
 
@@ -119,12 +120,12 @@ class NonPlayerDataAddressesEnum(Enum):
 
 class NonPlayerDataAddressesTuples:
     offsets = {
-        NonPlayerDataAddressesEnum.OPPONENT_NAME : (0x033B66E0, 0x0, 0x8, 0x114), #NOT_LOGGED_IN default value
-        NonPlayerDataAddressesEnum.OPPONENT_SIDE: (0x033B66E0, 0x0, 0x8, 0x70),  #0 means they are player 1, 1 means they are player 2
+        NonPlayerDataAddressesEnum.OPPONENT_NAME : (0x033CAAF0, 0x0, 0x8, 0x114), #NOT_LOGGED_IN default value
+        NonPlayerDataAddressesEnum.OPPONENT_SIDE: (0x033CAAF0, 0x0, 0x8, 0x70),  #0 means they are player 1, 1 means they are player 2
 
-        NonPlayerDataAddressesEnum.P1_CHAR_SELECT: (0x033B6CE8, 0x80, 0x3CC), #Alisa 19, Claudio 20
-        NonPlayerDataAddressesEnum.P2_CHAR_SELECT : (0x033B6CE8, 0x80, 0x584),
-        NonPlayerDataAddressesEnum.STAGE_SELECT: (0x033B6CE8, 0x80, 0x78),
+        NonPlayerDataAddressesEnum.P1_CHAR_SELECT: (0x033CB0F8, 0x80, 0x3CC), #Alisa 19, Claudio 20
+        NonPlayerDataAddressesEnum.P2_CHAR_SELECT : (0x033CB0F8, 0x80, 0x584),
+        NonPlayerDataAddressesEnum.STAGE_SELECT: (0x033CB0F8, 0x80, 0x78),
 
         #NonPlayerDataAddressesEnum.Matchlist0_PlayerName: (0x03336410, 0x2C0, 0x138),
         #NonPlayerDataAddressesEnum.Matchlist0_PING: (0x03336410, 0x2C0, 0x114),
@@ -137,8 +138,8 @@ class NonPlayerDataAddressesTuples:
         NonPlayerDataAddressesEnum.WARMUP_PLAYER_NAME2: (0x033B6408, 0x50, 0x140),
         NonPlayerDataAddressesEnum.WARMUP_PLAYER_WINS2: (0x033B6408, 0x50, 0x10C),
 
-        NonPlayerDataAddressesEnum.P1_Movelist: (0x033CBC20, 0x2E8), #there's a pointer to this in player data block
-        NonPlayerDataAddressesEnum.P2_Movelist: (0x033CEA20, 0x2E8),
+        NonPlayerDataAddressesEnum.P1_Movelist: (0x033DFF40, 0x2E8), #there's a pointer to this in player data block
+        NonPlayerDataAddressesEnum.P2_Movelist: (0x033E2DF0, 0x2E8),
 
 
 
