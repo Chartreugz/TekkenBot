@@ -8,7 +8,7 @@
       <ID>1005</ID>
       <Description>"player_data_second_pointer_offset"</Description>
       <VariableType>4 Bytes</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>0</Offset>
         <Offset>0</Offset>
@@ -18,7 +18,7 @@
       <ID>1102</ID>
       <Description>"player_data_second_pointer_offset"</Description>
       <VariableType>4 Bytes</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>1208</Offset>
         <Offset>0</Offset>
@@ -28,7 +28,7 @@
       <ID>1006</ID>
       <Description>"p2_data_offset"</Description>
       <VariableType>4 Bytes</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>6810</Offset>
         <Offset>0</Offset>
@@ -38,7 +38,7 @@
       <ID>1007</ID>
       <Description>"p2_end_block_offset"</Description>
       <VariableType>4 Bytes</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>c8</Offset>
         <Offset>0</Offset>
@@ -48,7 +48,7 @@
       <ID>1008</ID>
       <Description>"rollback_frame_offset"</Description>
       <VariableType>4 Bytes</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>1A4F0</Offset>
         <Offset>0</Offset>
@@ -58,7 +58,7 @@
       <ID>1009</ID>
       <Description>"frame_count"</Description>
       <VariableType>4 Bytes</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>1A050</Offset>
         <Offset>0</Offset>
@@ -68,7 +68,7 @@
       <ID>1010</ID>
       <Description>"facing"</Description>
       <VariableType>4 Bytes</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>ad4</Offset>
         <Offset>0</Offset>
@@ -78,7 +78,7 @@
       <ID>1011</ID>
       <Description>"timer_in_frames"</Description>
       <VariableType>4 Bytes</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>1A058</Offset>
         <Offset>0</Offset>
@@ -88,7 +88,7 @@
       <ID>1012</ID>
       <Description>"p1_char_id"</Description>
       <VariableType>4 Bytes</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>d4</Offset>
         <Offset>0</Offset>
@@ -98,7 +98,7 @@
       <ID>1013</ID>
       <Description>"p2_char_id"</Description>
       <VariableType>4 Bytes</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>68e4</Offset>
         <Offset>0</Offset>
@@ -108,7 +108,7 @@
       <ID>1014</ID>
       <Description>"p1_move_timer"</Description>
       <VariableType>4 Bytes</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>1f0</Offset>
         <Offset>0</Offset>
@@ -118,7 +118,7 @@
       <ID>1015</ID>
       <Description>"p2_move_timer"</Description>
       <VariableType>4 Bytes</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>6A00</Offset>
         <Offset>0</Offset>
@@ -128,7 +128,7 @@
       <ID>1016</ID>
       <Description>"p1_attack_damage"</Description>
       <VariableType>4 Bytes</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>2fc</Offset>
         <Offset>0</Offset>
@@ -138,7 +138,7 @@
       <ID>1017</ID>
       <Description>"p2_attack_damage"</Description>
       <VariableType>4 Bytes</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>6B0C</Offset>
         <Offset>0</Offset>
@@ -148,7 +148,7 @@
       <ID>1018</ID>
       <Description>"p1_move_id"</Description>
       <VariableType>4 Bytes</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>31c</Offset>
         <Offset>0</Offset>
@@ -158,7 +158,7 @@
       <ID>1019</ID>
       <Description>"p2_move_id"</Description>
       <VariableType>4 Bytes</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>6B2C</Offset>
         <Offset>0</Offset>
@@ -168,7 +168,7 @@
       <ID>1020</ID>
       <Description>"p1_recovery"</Description>
       <VariableType>4 Bytes</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>360</Offset>
         <Offset>0</Offset>
@@ -178,7 +178,7 @@
       <ID>1021</ID>
       <Description>"p2_recovery"</Description>
       <VariableType>4 Bytes</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>6B70</Offset>
         <Offset>0</Offset>
@@ -188,7 +188,7 @@
       <ID>1022</ID>
       <Description>"p1_hit_outcome"</Description>
       <VariableType>4 Bytes</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>39c</Offset>
         <Offset>0</Offset>
@@ -198,7 +198,7 @@
       <ID>1023</ID>
       <Description>"p2_hit_outcome"</Description>
       <VariableType>4 Bytes</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>6BAC</Offset>
         <Offset>0</Offset>
@@ -208,7 +208,7 @@
       <ID>1024</ID>
       <Description>"p1_attack_type"</Description>
       <VariableType>4 Bytes</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>3d4</Offset>
         <Offset>0</Offset>
@@ -218,7 +218,7 @@
       <ID>1025</ID>
       <Description>"p2_attack_type"</Description>
       <VariableType>4 Bytes</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>6BE4</Offset>
         <Offset>0</Offset>
@@ -228,7 +228,7 @@
       <ID>1026</ID>
       <Description>"p1_simple_move_state"</Description>
       <VariableType>4 Bytes</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>3d8</Offset>
         <Offset>0</Offset>
@@ -238,7 +238,7 @@
       <ID>1027</ID>
       <Description>"p2_simple_move_state"</Description>
       <VariableType>4 Bytes</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>6BE8</Offset>
         <Offset>0</Offset>
@@ -248,7 +248,7 @@
       <ID>1028</ID>
       <Description>"p1_stun_type"</Description>
       <VariableType>4 Bytes</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>3dc</Offset>
         <Offset>0</Offset>
@@ -258,7 +258,7 @@
       <ID>1029</ID>
       <Description>"p2_stun_type"</Description>
       <VariableType>4 Bytes</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>6BEC</Offset>
         <Offset>0</Offset>
@@ -268,7 +268,7 @@
       <ID>1030</ID>
       <Description>"p1_throw_tech"</Description>
       <VariableType>4 Bytes</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>3ec</Offset>
         <Offset>0</Offset>
@@ -278,7 +278,7 @@
       <ID>1031</ID>
       <Description>"p2_throw_tech"</Description>
       <VariableType>4 Bytes</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>6BFC</Offset>
         <Offset>0</Offset>
@@ -288,7 +288,7 @@
       <ID>1032</ID>
       <Description>"p1_throw_flag"</Description>
       <VariableType>4 Bytes</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>3f8</Offset>
         <Offset>0</Offset>
@@ -298,7 +298,7 @@
       <ID>1033</ID>
       <Description>"p2_throw_flag"</Description>
       <VariableType>4 Bytes</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>6C08</Offset>
         <Offset>0</Offset>
@@ -308,7 +308,7 @@
       <ID>1034</ID>
       <Description>"p1_complex_move_state"</Description>
       <VariableType>4 Bytes</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>400</Offset>
         <Offset>0</Offset>
@@ -318,7 +318,7 @@
       <ID>1035</ID>
       <Description>"p2_complex_move_state"</Description>
       <VariableType>4 Bytes</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>6C10</Offset>
         <Offset>0</Offset>
@@ -328,7 +328,7 @@
       <ID>1036</ID>
       <Description>"p1_power_crush"</Description>
       <VariableType>4 Bytes</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>4f6</Offset>
         <Offset>0</Offset>
@@ -338,7 +338,7 @@
       <ID>1037</ID>
       <Description>"p2_power_crush"</Description>
       <VariableType>4 Bytes</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>6D06</Offset>
         <Offset>0</Offset>
@@ -348,7 +348,7 @@
       <ID>1038</ID>
       <Description>"p1_jump_flags"</Description>
       <VariableType>4 Bytes</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>544</Offset>
         <Offset>0</Offset>
@@ -358,7 +358,7 @@
       <ID>1039</ID>
       <Description>"p2_jump_flags"</Description>
       <VariableType>4 Bytes</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>6D54</Offset>
         <Offset>0</Offset>
@@ -368,7 +368,7 @@
       <ID>1040</ID>
       <Description>"p1_cancel_window"</Description>
       <VariableType>4 Bytes</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>568</Offset>
         <Offset>0</Offset>
@@ -378,7 +378,7 @@
       <ID>1041</ID>
       <Description>"p2_cancel_window"</Description>
       <VariableType>4 Bytes</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>6D78</Offset>
         <Offset>0</Offset>
@@ -388,7 +388,7 @@
       <ID>1042</ID>
       <Description>"p1_damage_taken"</Description>
       <VariableType>4 Bytes</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>6ec</Offset>
         <Offset>0</Offset>
@@ -398,7 +398,7 @@
       <ID>1043</ID>
       <Description>"p2_damage_taken"</Description>
       <VariableType>4 Bytes</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>6EFC</Offset>
         <Offset>0</Offset>
@@ -408,7 +408,7 @@
       <ID>1044</ID>
       <Description>"p1_x"</Description>
       <VariableType>Float</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>c00</Offset>
         <Offset>0</Offset>
@@ -418,7 +418,7 @@
       <ID>1045</ID>
       <Description>"p2_x"</Description>
       <VariableType>Float</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>7410</Offset>
         <Offset>0</Offset>
@@ -428,7 +428,7 @@
       <ID>1046</ID>
       <Description>"p1_y"</Description>
       <VariableType>Float</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>c04</Offset>
         <Offset>0</Offset>
@@ -438,7 +438,7 @@
       <ID>1047</ID>
       <Description>"p2_y"</Description>
       <VariableType>Float</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>7414</Offset>
         <Offset>0</Offset>
@@ -448,7 +448,7 @@
       <ID>1048</ID>
       <Description>"p1_z"</Description>
       <VariableType>Float</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>c08</Offset>
         <Offset>0</Offset>
@@ -458,7 +458,7 @@
       <ID>1049</ID>
       <Description>"p2_z"</Description>
       <VariableType>Float</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>7418</Offset>
         <Offset>0</Offset>
@@ -468,7 +468,7 @@
       <ID>1050</ID>
       <Description>"p1_hitbox1"</Description>
       <VariableType>4 Bytes</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>c0c</Offset>
         <Offset>0</Offset>
@@ -478,7 +478,7 @@
       <ID>1051</ID>
       <Description>"p2_hitbox1"</Description>
       <VariableType>4 Bytes</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>741C</Offset>
         <Offset>0</Offset>
@@ -488,7 +488,7 @@
       <ID>1052</ID>
       <Description>"p1_hitbox2"</Description>
       <VariableType>4 Bytes</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>c10</Offset>
         <Offset>0</Offset>
@@ -498,7 +498,7 @@
       <ID>1053</ID>
       <Description>"p2_hitbox2"</Description>
       <VariableType>4 Bytes</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>7420</Offset>
         <Offset>0</Offset>
@@ -508,7 +508,7 @@
       <ID>1054</ID>
       <Description>"p1_hitbox3"</Description>
       <VariableType>4 Bytes</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>c14</Offset>
         <Offset>0</Offset>
@@ -518,7 +518,7 @@
       <ID>1055</ID>
       <Description>"p2_hitbox3"</Description>
       <VariableType>4 Bytes</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>7424</Offset>
         <Offset>0</Offset>
@@ -528,7 +528,7 @@
       <ID>1056</ID>
       <Description>"p1_hitbox4"</Description>
       <VariableType>4 Bytes</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>c18</Offset>
         <Offset>0</Offset>
@@ -538,7 +538,7 @@
       <ID>1057</ID>
       <Description>"p2_hitbox4"</Description>
       <VariableType>4 Bytes</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>7428</Offset>
         <Offset>0</Offset>
@@ -548,7 +548,7 @@
       <ID>1058</ID>
       <Description>"p1_hitbox5"</Description>
       <VariableType>4 Bytes</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>c1c</Offset>
         <Offset>0</Offset>
@@ -558,7 +558,7 @@
       <ID>1059</ID>
       <Description>"p2_hitbox5"</Description>
       <VariableType>4 Bytes</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>742C</Offset>
         <Offset>0</Offset>
@@ -569,7 +569,7 @@
       <Description>"p1_activebox_x"</Description>
       <Color>000000</Color>
       <VariableType>Float</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>1060</Offset>
         <Offset>0</Offset>
@@ -580,7 +580,7 @@
       <Description>"p2_activebox_x"</Description>
       <Color>000000</Color>
       <VariableType>Float</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>7870</Offset>
         <Offset>0</Offset>
@@ -591,7 +591,7 @@
       <Description>"p1_activebox_y"</Description>
       <Color>000000</Color>
       <VariableType>Float</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>1064</Offset>
         <Offset>0</Offset>
@@ -602,7 +602,7 @@
       <Description>"p2_activebox_y"</Description>
       <Color>000000</Color>
       <VariableType>Float</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>7874</Offset>
         <Offset>0</Offset>
@@ -613,7 +613,7 @@
       <Description>"p1_activebox_z"</Description>
       <Color>000000</Color>
       <VariableType>Float</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>1068</Offset>
         <Offset>0</Offset>
@@ -624,7 +624,7 @@
       <Description>"p2_activebox_z"</Description>
       <Color>000000</Color>
       <VariableType>Float</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>7878</Offset>
         <Offset>0</Offset>
@@ -635,7 +635,7 @@
       <Description>"p1_health_percent"</Description>
       <Color>000000</Color>
       <VariableType>4 Bytes</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>11e8</Offset>
         <Offset>0</Offset>
@@ -646,7 +646,7 @@
       <Description>"p2_health_percent"</Description>
       <Color>000000</Color>
       <VariableType>4 Bytes</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>79f8</Offset>
         <Offset>0</Offset>
@@ -656,7 +656,7 @@
       <ID>1068</ID>
       <Description>"p1_input_counter"</Description>
       <VariableType>4 Bytes</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>1598</Offset>
         <Offset>0</Offset>
@@ -666,7 +666,7 @@
       <ID>1069</ID>
       <Description>"p2_input_counter"</Description>
       <VariableType>4 Bytes</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>7DA8</Offset>
         <Offset>0</Offset>
@@ -676,7 +676,7 @@
       <ID>1070</ID>
       <Description>"p1_input_attack"</Description>
       <VariableType>4 Bytes</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>159c</Offset>
         <Offset>0</Offset>
@@ -686,7 +686,7 @@
       <ID>1071</ID>
       <Description>"p2_input_attack"</Description>
       <VariableType>4 Bytes</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>7DAC</Offset>
         <Offset>0</Offset>
@@ -696,7 +696,7 @@
       <ID>1072</ID>
       <Description>"p1_input_direction"</Description>
       <VariableType>4 Bytes</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>15a0</Offset>
         <Offset>0</Offset>
@@ -706,7 +706,7 @@
       <ID>1073</ID>
       <Description>"p2_input_direction"</Description>
       <VariableType>4 Bytes</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>7db0</Offset>
         <Offset>0</Offset>
@@ -716,7 +716,7 @@
       <ID>1074</ID>
       <Description>"p1_attack_startup"</Description>
       <VariableType>4 Bytes</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>6800</Offset>
         <Offset>0</Offset>
@@ -726,7 +726,7 @@
       <ID>1075</ID>
       <Description>"p2_attack_startup"</Description>
       <VariableType>4 Bytes</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>D010</Offset>
         <Offset>0</Offset>
@@ -736,7 +736,7 @@
       <ID>1076</ID>
       <Description>"p1_attack_startup_end"</Description>
       <VariableType>4 Bytes</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>6804</Offset>
         <Offset>0</Offset>
@@ -746,7 +746,7 @@
       <ID>1077</ID>
       <Description>"p2_attack_startup_end"</Description>
       <VariableType>4 Bytes</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>d014</Offset>
         <Offset>0</Offset>
@@ -756,7 +756,7 @@
       <ID>1078</ID>
       <Description>"p1_rage_flag"</Description>
       <VariableType>4 Bytes</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>99C</Offset>
         <Offset>0</Offset>
@@ -766,7 +766,7 @@
       <ID>1079</ID>
       <Description>"p2_rage_flag"</Description>
       <VariableType>4 Bytes</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>71AC</Offset>
         <Offset>0</Offset>
@@ -776,7 +776,7 @@
       <ID>1080</ID>
       <Description>"p1_mystery_state"</Description>
       <VariableType>4 Bytes</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>990</Offset>
         <Offset>0</Offset>
@@ -786,7 +786,7 @@
       <ID>1081</ID>
       <Description>"p2_mystery_state"</Description>
       <VariableType>4 Bytes</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>71A0</Offset>
         <Offset>0</Offset>
@@ -796,7 +796,7 @@
       <ID>1082</ID>
       <Description>"p1_round_wins"</Description>
       <VariableType>4 Bytes</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>1A06C</Offset>
         <Offset>0</Offset>
@@ -806,7 +806,7 @@
       <ID>1083</ID>
       <Description>"p2_round_wins"</Description>
       <VariableType>4 Bytes</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>1A134</Offset>
         <Offset>0</Offset>
@@ -816,7 +816,7 @@
       <ID>1084</ID>
       <Description>"p1_display_combo_counter"</Description>
       <VariableType>4 Bytes</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>1A0D0</Offset>
         <Offset>0</Offset>
@@ -826,7 +826,7 @@
       <ID>1085</ID>
       <Description>"p2_display_combo_counter"</Description>
       <VariableType>4 Bytes</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>1A198</Offset>
         <Offset>0</Offset>
@@ -836,7 +836,7 @@
       <ID>1086</ID>
       <Description>"p1_display_combo_damage"</Description>
       <VariableType>4 Bytes</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>1A0D8</Offset>
         <Offset>0</Offset>
@@ -846,7 +846,7 @@
       <ID>1087</ID>
       <Description>"p2_display_combo_damage"</Description>
       <VariableType>4 Bytes</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>1A1A0</Offset>
         <Offset>0</Offset>
@@ -856,7 +856,7 @@
       <ID>1088</ID>
       <Description>"p1_display_juggle_damage"</Description>
       <VariableType>4 Bytes</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>1A0DC</Offset>
         <Offset>0</Offset>
@@ -866,10 +866,34 @@
       <ID>1089</ID>
       <Description>"p2_display_juggle_damage"</Description>
       <VariableType>4 Bytes</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+33DED38</Address>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CAAC8</Address>
       <Offsets>
         <Offset>1A1A4</Offset>
         <Offset>0</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1104</ID>
+      <Description>"p1_movelist"</Description>
+      <VariableType>String</VariableType>
+      <Length>10</Length>
+      <Unicode>0</Unicode>
+      <ZeroTerminate>1</ZeroTerminate>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CBCD0</Address>
+      <Offsets>
+        <Offset>2e8</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1103</ID>
+      <Description>"p2_movelist"</Description>
+      <VariableType>String</VariableType>
+      <Length>10</Length>
+      <Unicode>0</Unicode>
+      <ZeroTerminate>1</ZeroTerminate>
+      <Address>"TekkenGame-Win64-Shipping.exe"+33CEB80</Address>
+      <Offsets>
+        <Offset>2e8</Offset>
       </Offsets>
     </CheatEntry>
   </CheatEntries>
