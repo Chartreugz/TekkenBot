@@ -1,6 +1,7 @@
-import requests
-from multiprocessing import queues #pyinstaller workaround  https://stackoverflow.com/questions/40768570/importerror-no-module-named-queue-while-running-my-app-freezed-with-cx-freeze
 import json
+import requests
+#from multiprocessing import queues #pyinstaller workaround  https://stackoverflow.com/questions/40768570/importerror-no-module-named-queue-while-running-my-app-freezed-with-cx-freeze
+
 
 CURRENT_VERSION = 'v0.8.0'
 
@@ -36,3 +37,4 @@ def check_version(force_print=False):
 
 if __name__ == '__main__':
     check_version()
+    
